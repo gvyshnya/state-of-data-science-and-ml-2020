@@ -13,7 +13,7 @@ As expected, the insights, although referred to as 'State of Data Science and Ma
 
 # Executive Summary
 
-This notebook is intended to provide the comprehansive EDA and data-driven insights from the data collected in Kaggle's 2020 survey of **'State of Data Science and Machine Learning 2020'**.
+This document is intended to provide the comprehansive EDA and data-driven insights from the data collected in Kaggle's 2020 survey of **'State of Data Science and Machine Learning 2020'**.
 
 It contains several chapters dedicated to various topics covered by the survey.
 
