@@ -812,3 +812,9 @@ In addition to insights above, we find that
 - Junior Business Analysts (with 2 or less years of programming experience) rank YouTube as their primary go-to medium whereas more senior-level Business Analysts prefer Blog posts and Kaggle
 - Statisticians with 20+ years of experience prefer Journal papers/publications, and Statisticians with less years of programming experience look the information up in Blogs and Kaggle as their go-to choices
 - Product/Project managers rank Kaggle as their go-to information source, regardless their programming experience
+
+# References
+
+The notebooks in this repo as well as the insights they caputured have been used in a number of blog posts and articles as follows
+
+- *'Cloud Computing, Data Science and ML Trends in 2020–2022: The battle of giants'* - https://www.kdnuggets.com/2021/01/cloud-computing-data-science-ml-trends-2020-2022-battle-giants.html
