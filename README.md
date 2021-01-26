@@ -808,7 +808,7 @@ We find that
 In addition to insights above, we find that
 
 - Almost in every occupation, people with programming experience of less then 10 years are funs of Kaggle as the primary information source
-- People with 10+ years of experience tend to rank other information sources as s their primary  go-to medium choice Blogs a
+- People with 10+ years of experience tend to rank other information sources as their primary  go-to medium choice, with Blogs being of the popular ones
 - Junior Business Analysts (with 2 or less years of programming experience) rank YouTube as their primary go-to medium whereas more senior-level Business Analysts prefer Blog posts and Kaggle
 - Statisticians with 20+ years of experience prefer Journal papers/publications, and Statisticians with less years of programming experience look the information up in Blogs and Kaggle as their go-to choices
 - Product/Project managers rank Kaggle as their go-to information source, regardless their programming experience
